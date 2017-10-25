@@ -110,7 +110,8 @@
         "meta.selector",
         "markup.heading.markdown",
         "entity.name.tag",
-        "entity.other.attribute-name.class.css"
+        "entity.other.attribute-name.class.css",
+        "entity.name.function.go"
       ],
       "settings": {
         "foreground": "#9B7931",
@@ -132,7 +133,14 @@
         "punctuation.section.property-list",
         "punctuation.section.function",
         "punctuation.definition.tag",
-        "meta.brace"
+        "meta.brace",
+        "punctuation.definition.begin.bracket.round.go",
+        "punctuation.definition.end.bracket.round.go",
+        "punctuation.definition.begin.bracket.curly.go",
+        "punctuation.definition.end.bracket.curly.go",
+        "punctuation.other.comma.go",
+        "punctuation.other.period.go",
+        "punctuation.terminator.go"
       ],
       "settings": {
         "foreground": "#C5C56D",

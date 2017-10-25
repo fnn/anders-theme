@@ -1,38 +1,38 @@
 {
-  "name": "anders-theme",
-  "displayName": "Anders",
-  "version": "1.0.0",
-  "description": "a theme not like the rest",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fnn/anders-theme"
-  },
-  "bugs": {
-    "url": "https://github.com/fnn/anders-theme/issues"
-  },
-  "author": "Fynn Path",
-  "license": "MIT",
-  "publisher": "fnn",
-  "icon": "icon.png",
-  "engines": {
-    "vscode": "^1.12.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Anders",
-        "uiTheme": "vs-dark",
-        "path": "./themes/anders.json"
-      }
+    "name": "anders-theme",
+    "displayName": "Anders",
+    "version": "1.1.0",
+    "description": "a theme not like the rest",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fnn/anders-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/fnn/anders-theme/issues"
+    },
+    "author": "Fynn Path",
+    "license": "MIT",
+    "publisher": "fnn",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Anders",
+                "uiTheme": "vs-dark",
+                "path": "./themes/anders.json"
+            }
+        ]
+    },
+    "keywords": [
+        "anders",
+        "theme",
+        "dark",
+        "black"
     ]
-  },
-  "keywords": [
-    "anders",
-    "theme",
-    "dark",
-    "black"
-  ]
 }
